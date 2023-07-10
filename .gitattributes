@@ -1,3 +1,9 @@
 DutchReadingData.csv filter=lfs diff=lfs merge=lfs -text
 EnglishReadingData.csv filter=lfs diff=lfs merge=lfs -text
 GermanReadingData.csv filter=lfs diff=lfs merge=lfs -text
+english_text.txt filter=lfs diff=lfs merge=lfs -text
+dutch_text.txt filter=lfs diff=lfs merge=lfs -text
+german_text.txt filter=lfs diff=lfs merge=lfs -text
+nld_news_2022_100K-sentences.txt filter=lfs diff=lfs merge=lfs -text
+deu_news_2022_100K-sentences.txt filter=lfs diff=lfs merge=lfs -text
+eng_news_2022_100K-sentences.txt filter=lfs diff=lfs merge=lfs -text
